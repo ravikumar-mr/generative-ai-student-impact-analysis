@@ -20,10 +20,15 @@ This project analyzes **50,000 student records** to explore patterns between AI 
 The goal is to transform the dataset into an interactive dashboard that helps users explore these relationships from multiple perspectives.
 
 ##Dashboard
+HOME
 <img width="1337" height="790" alt="image" src="https://github.com/user-attachments/assets/9b9ec1ee-078d-4bc7-b89d-c31d214c4f02" />
+EXECUTIVE OVERVIEW
 <img width="1346" height="787" alt="image" src="https://github.com/user-attachments/assets/2b866422-495b-49f5-9127-eb7223ed3ac0" />
+ACADEMIC IMPACT
 <img width="1352" height="782" alt="image" src="https://github.com/user-attachments/assets/7e57e1a4-ae82-4d82-98cf-b24d81d61f28" />
+BURNOUT & WELLBEING
 <img width="1352" height="792" alt="image" src="https://github.com/user-attachments/assets/819fecce-b9e4-45f8-abc1-7fe3c634c260" />
+POLICY COMPARISON
 <img width="1362" height="791" alt="image" src="https://github.com/user-attachments/assets/e8fc7de3-83db-490f-be26-8ba9172a8489" />
 
 
